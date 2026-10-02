@@ -586,7 +586,9 @@ Then commit your changes and open a pull request.
 
 # 📄 License
 
-No license file has been added yet. Until one is, all rights are reserved by the author. If you want others to reuse the code, add a `LICENSE` file (for example MIT).
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
