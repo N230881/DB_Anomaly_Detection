@@ -41,14 +41,14 @@ An unsupervised LSTM autoencoder trained on real AWS CloudWatch CPU metrics, wit
 ---
 
 ## 🎬 Demo Video
-
+A walkthrough of the dashboard: key metrics, CPU and anomaly-score charts, flagged-point exploration (scroll, sort, search) and CSV export.
 
 
 https://github.com/user-attachments/assets/f513f1e3-6d21-4114-a545-9056488ee2b9
 
 
 
-A walkthrough of the dashboard: key metrics, CPU and anomaly-score charts, flagged-point exploration (scroll, sort, search) and CSV export.
+
 
 ---
 
