@@ -42,8 +42,9 @@ An unsupervised LSTM autoencoder trained on real AWS CloudWatch CPU metrics, wit
 
 ## 🎬 Demo Video
 
-<!-- Upload DB_Anomaly_Detection_LinkedIn_Demo.mp4 by dragging it into this README in the GitHub web editor, then replace this comment with the generated https://github.com/user-attachments/assets/... link. -->
 
+
+https://github.com/user-attachments/assets/f513f1e3-6d21-4114-a545-9056488ee2b9
 
 
 
