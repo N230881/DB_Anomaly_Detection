@@ -552,7 +552,6 @@ It currently:
 
 # 📚 Documentation
 
-* **Generated wiki:** [deepwiki.com/N230881/DB_Anomaly_Detection](https://deepwiki.com/N230881/DB_Anomaly_Detection)
 * **Dataset & labels:** [Numenta Anomaly Benchmark](https://github.com/numenta/NAB)
 
 ---
